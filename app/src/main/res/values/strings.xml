@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Penia5</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="local">Equipo local</string>
+    <string name="visitante">Equipo visitante</string>
+    <string name="mostrar_sustitutos">Mostrar sustitutos</string>
+    <string name="posicion">Pos</string>
+    <string name="nombre">Nombre</string>
+    <string name="puntos">Ptos</string>
+    <string name="partidos_jugados">J</string>
+    <string name="partidos_ganados">G</string>
+    <string name="partidos_empatados">E</string>
+    <string name="partidos_perdidos">P</string>
+    <string name="win_rate">R[%]</string>
+    <string name="asunto">Asunto:</string>
+    <string name="importe">Importe:</string>
+    <string name="fecha_gasto">Fecha del gasto:</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="hint_importe">20€</string>
+</resources>
